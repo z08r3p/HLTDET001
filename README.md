@@ -1,48 +1,46 @@
 java c
-HLTDET001 - Construct modelsAssessment details 
-The purpose of this assessment task is to assess the unit HLTDET001.
-Student instructions 
-This assessment task contains short answer questions. You must provide a response to these questions in your own words to demonstrate your knowledge and understanding of the unit. Responses copied directly from the learning materials will not be accepted.   Carefully read through each question and reflect on your learning in this unit, including any additional research you have conducted.
-Please note:   Where your response does not sufficiently address all the question components, your submission will be returned to you for resubmission.
-Assessment conditions ·   This assessment is untimed and you may refer to your learning materials during this assessment·   You must read and respond to all questions·   Answers must be typed and submitted through My eCampus for assessing·   You must complete the task independently·   No marks or grades are allocated for this assessment task. The outcome of the task will be Satisfactory or Not Satisfactory·   As you complete this assessment task, you are predominately demonstrating your written skills and knowledge to your trainer/assessor
-Task 1 – Verify the integrity of impressions
-Task 1.1
-Complete the table below on standard precautions in the dental workplace to use as a training aid fo代 写HLTDET001 - Construct modelsC/C++
-代做程序编程语言r the new employee. a.  Standard precaution one – Protective eyewear, masks, and gloves worn by the dental worker
-Description of the standard precaution?
+HLTDET001   Construct   models
+GYPSUM   PLASTER X
+Manufacturer   Usage   Instructions
+Colour
+Blue
+Mixing Time
+35- 45 seconds
+Working Time
+5-6   minutes
+Initial Setting Time
+9-11   minutes
+Final Setting Time
+45-60   minutes
+Water   ratio
+40   ml water/100g Gypsum   Plaster X   powder
+Mixing instructions
+•          Mix 40ml   of water   per   100g   of   Gypsum   Plaster   X   powder   in   a   clean   bowl
+•          Stir the   mixture   using the   provided spatula for   15-20   seconds to   combine the   materials
+•          Using a   rapid   mixing   action,   stir   the   mixture for   an   additional   20-25   seconds   to   ensure   a   consistent   mix
+•            Inspect the   mixture for any air   bubbles
+•          Flatten   any   air   bubbles   using the   provided   spatula
+•          Inspect the   mixture   before   pouring to   ensure the   mixture   is   consistent   and   appears   thick   and   creamy
+•          Place the   bowl containing   the   mix   on   a   vibrator   and   run   the   vibrator   for   at   least   30   seconds
+Pouring instructions
+First Stage   Pour:
+•          Place the   impression on the   vibrator. Then,   starting   at   one   corner,   deliver   a   small   amount   of   the   plaster   into the   molar tooth   impression, allowing   it to flow   into the   impression.
+•          Repeat this step   until   all the   tooth   impressions   are   filled.   The   plaster   should   flow   around   the   arch   of   the   impression, completely   filling   one   toothat   a   time.
+•          Carefully check for   bubbles. The vibrator   should   eliminate   these;   however,   if   a   bubble   appears   and does   not go away with vibration,   pop   it with   a   small   ins代 写HLTDET001 Construct modelsC/C++
+代做程序编程语言trument.
+•          Allow the   mix   in the   impression to   reach the ‘initial set’   .   This   usually   occurs   between   9-11   minutes and will   be several   minutes after the   plaster   loses   its glossy   appearance.
+Second Stage   Pour:
+•          When the tooth depressions   have filled,   add   plaster   in   larger   amounts to   a   level   slightly   above   the   impression walls. Continue to vibrate to   ensure complete   coverage.
+•          Blend the   pours together with   the   spatula   to   create   a   continuous   connection.   While   holding      the   handle of the   impression tray,   use the spatula to shape the   sides   of the   model   material            around the first   pour. Avoid   placing the wet   material from the   base onto   the   impression tray   because this would create a   mechanical   lock that   is difficult to   separate   when   set.
+•          Place the   remaining   model   material onto   a   tile,   forming   a   mound   slightly   wider than   the   impression
+•          Add the   base to the top of the filled   impression   by   inverting the   impression   onto   the   base
+•          The final setting time   is   between 45-60   minutes from   the   start   of the   second   pour
+Storage instructions
+•          Gypsum   Plaster xcan   be safely stored   in   its   sealed   packaging.   Ensure   packaging   is   correctly   sealed after   usage.
+•          The shelf   life of the   plaster   is   12   months from the   date   of   manufacture
+•          Gypsum   Plaster   must   be stored   in a   dry   environment   away   from   direct   sunlight
+•          Once   mixed, any   unused Gympusm   Plaster   x   must   be   disposed   of   appropriately
    
-How do each of these PPE reduce this risk of infection transmission?
-Eyewear
-   
-Masks
-   
-Gloves
-   
-How is the piece of PPE applied? 
-Eyewear
-   
-Masks
-   
-Gloves
-   b.  Standard precaution two – Hand washing 
-What is the standard precaution?
-   
-How does this reduce the risk of infection transmission?
-   
-How is the standard precaution undertaken? 
-   c.  Standard precaution three - Hand rubbing 
-What is the standard precaution?
-   
-How does this reduce this risk of infection transmission?
-   
-How is the standard precaution undertaken? 
-   
-Task 1.2
-The new employee is not familiar with the decontamination of impressions. Describe below the purpose of decontaminating impressions and how this is performed. a.  What is the purpose of decontaminating impressions?b.  What is the process for decontaminating impressions?Submission instructions 
-Please proofread your work and save a copy of your assessment to keep in your own records.
-Save the document to include your name in the file for example:
-HLTDET001 – Assignment – Your Name
-Submit your completed assessment for marking by your assessor.
 
          
 加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
